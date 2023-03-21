@@ -1,3 +1,4 @@
+"cddfj"
 try:
     a = int(input('Введите число '))
     b=100/a

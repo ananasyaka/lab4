@@ -1,3 +1,4 @@
+"cddfj"
 try:
     a = int(input('Введите число '))
 except ValueError:
